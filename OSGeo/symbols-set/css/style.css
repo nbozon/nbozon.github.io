@@ -1,0 +1,305 @@
+body {
+  font-family: sintonyregular;
+  font-size: 18px;
+  color: #404040;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+h1 {
+  font-family: miriam_librebold !important;
+  font-size: 3.2em !important;
+  color: #FFFFFF !important;
+  margin: 0 !important;
+}
+h2 {
+  font-family: miriam_libreregular;
+  font-size: 1.5em;
+  color: #4CAF5B;
+  margin: 1.5em 0;
+}
+a {
+  color: #91908F;
+}
+a:hover {
+  color: #4CB05B;
+}
+.btn {
+  font-family: miriam_libreregular !important;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  background-color: #4DAF5C;
+  -o-border-radius: .5rem;
+  -webkit-border-radius: .5rem;
+  -moz-border-radius: .5rem;
+  border-radius: .5rem;
+  display: inline-block;
+  font-size: 1.6rem;
+  font-weight: bold;
+  line-height: 2.2rem;
+  padding: 1.05rem 2.25rem;
+  white-space: normal;
+  color: #FFFFFF;
+  margin-bottom: 2em;
+}
+.btn:hover {
+  background-color: #023B41;
+  color: #FFF;
+}
+p {
+  line-height: 1.5;
+  margin: 30px 0;
+}
+p a {
+  text-decoration: none;
+}
+
+  .navbar-custom {
+    background: #FFF;
+    border-bottom: 1px solid transparent;
+    height: 85px;
+  }
+  .navbar-custom .navbar-brand {
+    margin: 1em 0 !important;
+    background: url(../img/logo-osgeo.svg);
+    height: 64px !important;
+    width: 258px !important;
+  }
+  
+
+.navbar-brand {
+  height: auto !important;
+}
+
+
+
+.intro-header {
+  background-color: transparent;
+  display: block;
+  z-index: 100;
+  width: 100%;
+  margin-top: 40px;
+  padding-top: 60px;
+}
+#bg-hdr {
+  min-height: 180px;
+  background: url(../img/bg-intro.jpg);
+  background-size: cover;
+}
+.affix-top, .affix {
+  position: static;
+  width: auto;
+  top: 0;
+  font-size: 16px;
+}
+#sidebar {
+  font-family: sintonyregular, sans-serif;
+}
+#menu {
+  margin-top: 2em;
+}
+#sidebar li.active {
+  border: 0 #eee solid;
+  border-bottom-width: 1px;
+}
+#sidebar li a {
+  color: #757473;
+  padding: 8px 15px;
+  font-size: 18px;
+}
+#sidebar li a:hover {
+  color: #4CB05B;
+}
+#sidebar>li>a:focus, #sidebar li>a:hover {
+  background-color: transparent;
+}
+#sidebar li.active a, #sidebar li.active a i {
+  color: #000 !important;
+}
+.osgeo-symbols {
+  margin: 0;
+  overflow: hidden;
+}
+.osgeo-symbols-list, .osgeo-symbols-projects {
+  padding-left: 0;
+  list-style: none;
+}
+.osgeo-symbols-list li, .osgeo-symbols-projects li {
+  font-family: miriam_libreregular !important;
+  float: left;
+  width: 25%;
+  height: 200px;
+  padding: 10px;
+  line-height: 1.15;
+  text-align: center;
+  background-color: #fafafa;
+  border: 1px solid #fff;
+  font-size: 16px;
+}
+.osgeo-symbols li i {
+  color: #6d6d6d;
+  text-shadow: #FFFFFF 0 2px 0;
+  font-size: 5.4em;
+  display: block;
+  line-height: 1;
+  padding: .2em .2em .2em .2em;
+}
+.osgeo-symbols-projects li i {
+  color: #6d6d6d;
+  text-shadow: #FFFFFF 0 2px 0;
+  font-size: 5em;
+  display: block;
+  line-height: 1;
+  padding: .2em .2em .4em .2em;
+}
+.list li {
+  text-align: left;
+  display: block;
+  width: 100% !important;
+  height: auto !important;
+  padding: 0;
+  border-bottom: 1px solid #CCC;
+}
+.list li i {
+  display: inline-block;
+  text-align: left;
+  word-wrap: none !important;
+  margin-right: 2em;
+}
+footer {
+  background: #003a40;
+  padding: 3px 0 6px;
+  color: #FFFFFF;
+}
+footer a {
+  color: #FFFFFF;
+}
+footer a:hover {
+  color: #87E991;
+}
+footer .list-inline {
+  margin: 0;
+  padding: 0;
+}
+footer .copyright {
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+
+@media only screen and (max-width: 320px) {
+  .navbar-custom {
+    background: #FFF;
+    border-bottom: 1px solid transparent;
+    height: 70px;
+  }
+  .navbar-custom .navbar-brand {
+    margin: .6em 0 !important;
+    background: url(../img/logo-osgeo.svg);
+    background-size: cover;
+    height: 70px !important;
+    width: 197px !important;
+  }
+  #bg-hdr {
+    min-height: 140px;
+  }
+  h1 {
+  font-size: 2.8em;
+  }
+  .intro-header {
+  margin-top: 30px;
+  padding-top: 35px;
+  }
+  .osgeo-symbols li i {
+  font-size: 3.4em;
+  padding: .1em .1em .1em .1em;
+  }
+  .osgeo-symbols-projects li i {
+  font-size: 3em;
+  padding: .1em .1em .2em .1em;
+}
+}
+
+@media only screen and (max-width: 480px) {
+  .navbar-custom {
+    background: #FFF;
+    border-bottom: 1px solid transparent;
+    height: 60px;
+  }
+  .navbar-custom .navbar-brand {
+    margin: .6em 0 !important;
+    background: url(../img/logo-osgeo.svg);
+    background-size: cover;
+    height: 60px !important;
+    width: 197px !important;
+  } .osgeo-symbols li i {
+  font-size: 3.4em;
+  padding: .1em .1em .1em .1em;
+}
+.osgeo-symbols-projects li i {
+  font-size: 3em;
+  padding: .1em .1em .2em .1em;
+}
+}
+
+
+@media only screen and (min-width: 768px) {
+  .navbar-custom {
+    background: #FFF;
+    border-bottom: 1px solid transparent;
+    height: 85px;
+  }
+  .navbar-custom .navbar-brand {
+    margin: 1em 0 !important;
+    background: url(../img/logo-osgeo.svg);
+    height: 84px !important;
+    width: 258px !important;
+  }
+  .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-brand:focus {
+    color: rgba(255, 255, 255, 1);
+  }
+  .navbar-custom .nav li a {
+    color: #fff;
+    padding: 20px;
+  }
+  .intro-header {
+  background-color: transparent;
+  display: block;
+  z-index: 100;
+  width: 100%;
+  margin-top: 40px;
+  padding-top: 65px;
+  }
+  .osgeo-symbols li i {
+  font-size: 5.4em;
+  padding: .1em .1em .1em .1em;
+ }
+  .osgeo-symbols-projects li i {
+  font-size: 5em;
+  padding: .1em .1em .2em .1em;
+ }
+}
+
+
+@media (min-width: 979px) {
+  #sidebar.affix-top {
+    position: static;
+    width: 228px;
+  }
+  #sidebar.affix {
+    position: fixed;
+    top: 40px;
+    width: 228px;
+  }
+  .osgeo-symbols li i {
+  font-size: 5.4em;
+  padding: .1em .1em .1em .1em;
+}
+  .osgeo-symbols-projects li i {
+  font-size: 5em;
+  padding: .1em .1em .2em .1em;
+}
+}
