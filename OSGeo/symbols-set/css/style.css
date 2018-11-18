@@ -173,7 +173,7 @@ footer {
   padding: 3px 0 6px;
   color: #FFFFFF;
 }
-footer a {
+footer a, footer a:focus {
   color: #FFFFFF;
 }
 footer a:hover {
