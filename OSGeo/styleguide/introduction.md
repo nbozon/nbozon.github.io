@@ -14,7 +14,7 @@ future use.</p></div><div class="col-md-4"><img src="img/osgeo-emblem-cmyk.svg"/
 
 This is the HTML version of the **OSGeo branding styleguide** built on top of [mdwiki](http://dynalon.github.io/mdwiki/#!index.md). Content is written into  markdown files from which the top and sidebar menu are generated. Some additional inline HTML markup is included in the markdown to improve the styleguide presentation and correctly meet the guidelines.
 
-This ocument is an entry point to the OSGeo branding assets and guidelines. Every material and content is available on [Github](https://github.com/OSGeo/osgeo/tree/master/marketing/branding), so feel free to reuse it and please help us to make it better !
+This document is an entry point to the OSGeo branding assets and guidelines. Every material and content is available on [Github](https://github.com/OSGeo/osgeo/tree/master/marketing/branding), so feel free to reuse it and please help us to make it better !
 
 <img src="img/aaron-burden-151465.jpg" class="img-responsive" />
 <hr class="mb-30">
