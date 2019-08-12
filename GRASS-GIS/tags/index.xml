@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GRASS GIS - Bringing advanced geospatial technologies to the world</title>
-    <link>http://localhost/GRASS-GIS/tags/</link>
+    <link>https://nbozon.github.io/GRASS-GIS/tags/</link>
     <description>Recent content in Tags on GRASS GIS - Bringing advanced geospatial technologies to the world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 1998-2019, GRASS Development Team.</copyright>
     
-	<atom:link href="http://localhost/GRASS-GIS/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nbozon.github.io/GRASS-GIS/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
