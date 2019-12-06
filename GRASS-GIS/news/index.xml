@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest news on GRASS GIS - Bringing advanced geospatial technologies to the world</title>
-    <link>https://nbozon.github.io/GRASS-GIS/news/</link>
-    <description>Recent content in Latest news on GRASS GIS - Bringing advanced geospatial technologies to the world</description>
+    <title>News on GRASS GIS - Bringing advanced geospatial technologies to the world</title>
+    <link>h/news/</link>
+    <description>Recent content in News on GRASS GIS - Bringing advanced geospatial technologies to the world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 1998-2019, GRASS Development Team.</copyright>
     <lastBuildDate>Thu, 28 Mar 2019 11:36:11 +0100</lastBuildDate>
     
-	<atom:link href="https://nbozon.github.io/GRASS-GIS/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="h/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meet the GRASS GIS team at FOSS4G 2019 </title>
-      <link>https://nbozon.github.io/GRASS-GIS/news/meet-grass-gis-team-at-foss4g/</link>
+      <link>h/news/meet-grass-gis-team-at-foss4g/</link>
       <pubDate>Mon, 05 Aug 2019 13:23:16 +0100</pubDate>
       
-      <guid>https://nbozon.github.io/GRASS-GIS/news/meet-grass-gis-team-at-foss4g/</guid>
+      <guid>h/news/meet-grass-gis-team-at-foss4g/</guid>
       <description>This is a test post</description>
     </item>
     
     <item>
       <title>A new GRASS GIS crowdfunding campaign </title>
-      <link>https://nbozon.github.io/GRASS-GIS/news/new-crowdfunding-campain/</link>
+      <link>h/news/new-crowdfunding-campain/</link>
       <pubDate>Thu, 28 Mar 2019 11:36:11 +0100</pubDate>
       
-      <guid>https://nbozon.github.io/GRASS-GIS/news/new-crowdfunding-campain/</guid>
+      <guid>h/news/new-crowdfunding-campain/</guid>
       <description>Hey GRASS GIS friends!
 We just launched a crowd funding campaign to partially cover the costs of refreshing and re-styling our website https://grass.osgeo.org to newer standards.
 Details about our plans for the website migration in 2019 can find on the wiki: https://grasswiki.osgeo.org/wiki/Website_migration_plan_2019
@@ -36,10 +36,10 @@ Thank you very much for your support</description>
     
     <item>
       <title>SVN to GitHub migration has started </title>
-      <link>https://nbozon.github.io/GRASS-GIS/news/svn-migration-has-started/</link>
+      <link>h/news/svn-migration-has-started/</link>
       <pubDate>Wed, 27 Feb 2019 11:36:11 +0100</pubDate>
       
-      <guid>https://nbozon.github.io/GRASS-GIS/news/svn-migration-has-started/</guid>
+      <guid>h/news/svn-migration-has-started/</guid>
       <description>SVN to GitHub migration has been started today.
 SVN has been set to read-only mode and we are currently updating the new GitHub repos.
 We are tracking all efforts here: https://trac.osgeo.org/grass/wiki/GitMigration

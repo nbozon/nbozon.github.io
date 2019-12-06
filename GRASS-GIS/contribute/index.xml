@@ -2,49 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contribute on GRASS GIS - Bringing advanced geospatial technologies to the world</title>
-    <link>https://nbozon.github.io/GRASS-GIS/contribute/</link>
+    <link>h/contribute/</link>
     <description>Recent content in Contribute on GRASS GIS - Bringing advanced geospatial technologies to the world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 1998-2019, GRASS Development Team.</copyright>
     <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0500</lastBuildDate>
     
-	<atom:link href="https://nbozon.github.io/GRASS-GIS/contribute/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="h/contribute/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Developement</title>
-      <link>https://nbozon.github.io/GRASS-GIS/contribute/development/</link>
+      <title>Community</title>
+      <link>h/contribute/community/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>https://nbozon.github.io/GRASS-GIS/contribute/development/</guid>
+      <guid>h/contribute/community/</guid>
+      <description> Coming soon </description>
+    </item>
+    
+    <item>
+      <title>Developement</title>
+      <link>h/contribute/development/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>h/contribute/development/</guid>
       <description> Coming soon </description>
     </item>
     
     <item>
       <title>Donations</title>
-      <link>https://nbozon.github.io/GRASS-GIS/contribute/donations/</link>
+      <link>h/contribute/donations/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>https://nbozon.github.io/GRASS-GIS/contribute/donations/</guid>
+      <guid>h/contribute/donations/</guid>
       <description> Coming soon </description>
     </item>
     
     <item>
       <title>Sponsors</title>
-      <link>https://nbozon.github.io/GRASS-GIS/contribute/sponsors/</link>
+      <link>h/contribute/sponsors/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>https://nbozon.github.io/GRASS-GIS/contribute/sponsors/</guid>
+      <guid>h/contribute/sponsors/</guid>
       <description> Coming soon </description>
     </item>
     
     <item>
       <title>Support</title>
-      <link>https://nbozon.github.io/GRASS-GIS/contribute/support/</link>
+      <link>h/contribute/support/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>https://nbozon.github.io/GRASS-GIS/contribute/support/</guid>
+      <guid>h/contribute/support/</guid>
       <description> Coming soon </description>
     </item>
     
