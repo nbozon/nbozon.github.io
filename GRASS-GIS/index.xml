@@ -57,11 +57,12 @@ Much time of the GRASS GIS Community Sprint Berlin 2019 will be dedicated to com
     
     <item>
       <title>Community</title>
-      <link>https://nbozon.github.io/GRASS-GIS/contribute/community/</link>
+      <link>https://nbozon.github.io/GRASS-GIS/about/community/</link>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
-      <guid>https://nbozon.github.io/GRASS-GIS/contribute/community/</guid>
-      <description> Coming soon </description>
+      <guid>https://nbozon.github.io/GRASS-GIS/about/community/</guid>
+      <description> GRASS developement team GRASS GIS is developed and maintained by a global network of developers and used by many.
+Mailing lists Social media </description>
     </item>
     
     <item>
@@ -130,7 +131,7 @@ Get the book               Open Source GIS: A GRASS GIS Approach</description>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
       <guid>https://nbozon.github.io/GRASS-GIS/learn/manuals/</guid>
-      <description> Coming soon </description>
+      <description> User manuals  First item Second item Third item Fourth item  Addons manuals Developer manuals </description>
     </item>
     
     <item>
@@ -202,8 +203,8 @@ Get the book               Open Source GIS: A GRASS GIS Approach</description>
       <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
       
       <guid>https://nbozon.github.io/GRASS-GIS/learn/overview/</guid>
-      <description>General information Geographic Resources Analysis Support System, commonly referred to as GRASS, is a Geographic Information System (GIS) technology built for vector and raster geospatial data management, geoprocessing, spatial modelling and visualization.
-GRASS GIS is Free, Libre and Open Source Software released under the terms of the GNU General Public License (GPL v2). GRASS GIS is also a founding member and an affiliated project of the Open Source Geospatial Foundation .</description>
+      <description>Geographic Resources Analysis Support System, commonly referred to as GRASS GIS, is a Geographic Information System (GIS) technology built for vector and raster geospatial data management, geoprocessing, spatial modelling and visualization.
+GRASS GIS is Free, Libre and Open Source Software released under the terms of the GNU General Public License (GPL v2) . GRASS GIS is also a founding member and an affiliated project of the Open Source Geospatial Foundation</description>
     </item>
     
     <item>
