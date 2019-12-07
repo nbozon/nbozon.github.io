@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/download/</loc>
+    <lastmod>2019-08-11T11:02:05+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/</loc>
+    <lastmod>2018-12-29T11:02:05+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contribute/</loc>
+    <lastmod>2018-12-29T11:02:05+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/meet-grass-gis-team-at-foss4g/</loc>
+    <lastmod>2019-08-05T13:23:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/new-crowdfunding-campain/</loc>
+    <lastmod>2019-03-28T11:36:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+    <lastmod>2019-03-28T11:36:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/svn-migration-has-started/</loc>
+    <lastmod>2019-02-27T11:36:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/us/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/community/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/credits/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contribute/development/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contribute/donations/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/newcomers/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/books/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/brand/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/manuals/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/tutorials/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/history/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/license/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/download/linux/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/download/mac/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contribute/sponsors/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contribute/support/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/overview/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/download/windows/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/elements/</loc>
+    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-08-05T13:23:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
